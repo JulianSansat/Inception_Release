@@ -1,0 +1,1 @@
+To open the game execute "main.exe" file
